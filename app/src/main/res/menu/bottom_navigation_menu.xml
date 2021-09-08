@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_admin"
+        android:enabled="true"
+        android:icon="@drawable/ic_admin"
+        android:title="@string/admin"/>
+
+    <item
+        android:id="@+id/item_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"/>
+
+    <item
+        android:id="@+id/item_menu"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_book"
+        android:title="@string/menu"/>
+
+    <item
+        android:id="@+id/item_bitacora"
+        android:enabled="true"
+        android:icon="@drawable/ic_calendar"
+        android:title="@string/log"/>
+
+</menu>

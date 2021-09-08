@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".admin.AdminFragment">
+
+    <LinearLayout
+        android:id="@+id/adminLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/adminTipoAlimentoBtn"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/food_types" />
+
+        <Button
+            android:id="@+id/adminTipoProductoBtn"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/product_types" />
+
+        <Button
+            android:id="@+id/adminTipoIdeaBtn"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/idea_types" />
+
+        <Button
+            android:id="@+id/adminUnidadBtn"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/units" />
+
+        <Button
+            android:id="@+id/adminProductoBtn"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/products" />
+
+        <Button
+            android:id="@+id/adminAlimentoBtn"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/foods" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

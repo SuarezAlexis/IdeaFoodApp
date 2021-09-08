@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Idea Food</string>
+    <string name="login">Inicia sesión</string>
+
+    <string name="sign_in">Ingresar</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login_url" translatable="false">http://alexis-suarez.com/api/auth</string>
+    <string name="token_url" translatable="false">https://tannyamejia.com/token</string>
+    <string name="conn_error">Ocurrió un error al intentar conectar con el servidor. Por favor intenta más tarde</string>
+    <string name="error">Error</string>
+    <string name="log">Bitácora</string>
+    <string name="admin">Administrar</string>
+    <string name="home">Inicio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu">Menú</string>
+    <string name="week">Semana</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="PREFS_NAME" translatable="false">com.jainjo.ideafood.preferences</string>
+    <string name="empty_field">Este campo no puede estar vacío</string>
+    <string name="add">Agregar</string>
+    <string name="food_types">Tipos de alimento</string>
+    <string name="idea_types">Horarios de comida</string>
+    <string name="products">Productos</string>
+    <string name="product_types">Tipos de producto</string>
+    <string name="units">Unidades de medida</string>
+    <string name="tipos_alimento_url" translatable="false">http://alexis-suarez.com/api/tipos_alimento</string>
+    <string name="tipos_idea_url" translatable="false">http://alexis-suarez.com/api/tipos_idea</string>
+    <string name="tipos_producto_url" translatable="false">http://alexis-suarez.com/api/tipos_producto</string>
+    <string name="unidades_url" translatable="false">http://alexis-suarez.com/api/unidades</string>
+    <string name="productos_url" translatable="false">http://alexis-suarez.com/api/productos</string>
+    <string name="id" translatable="false">ID</string>
+    <string name="name">Nombre</string>
+    <string name="description">Descripción</string>
+    <string name="save">Guardar</string>
+    <string name="abr">Abreviatura</string>
+    <string name="magnitude">Magnitud</string>
+    <string name="product">Producto</string>
+    <string name="unit">Unidad de medida</string>
+    <string name="food_type">Tipo de alimento</string>
+    <string name="idea_type">Horario de comida</string>
+    <string name="product_type">Tipo de producto</string>
+    <string name="catalog">Catálogo</string>
+    <string name="tipo_alimento_url" translatable="false">http://alexis-suarez.com/api/tipo_alimento</string>
+    <string name="tipo_idea_url" translatable="false">http://alexis-suarez.com/api/tipo_idea</string>
+    <string name="tipo_producto_url" translatable="false">http://alexis-suarez.com/api/tipo_producto</string>
+    <string name="unidad_url" translatable="false">http://alexis-suarez.com/api/unidad</string>
+    <string name="producto_url" translatable="false">http://alexis-suarez.com/api/producto</string>
+    <string name="type">Tipo</string>
+    <string name="image">Imagen</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_confirmation">¿Estas seguro de que deseas eliminar este elemento?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add_idea">Agregar Idea</string>
+    <string name="optional">(Opcional)</string>
+    <string name="details">Detalles</string>
+    <string name="alimentos_url" translatable="false">http://alexis-suarez.com/api/alimentos</string>
+    <string name="food">Alimento</string>
+    <string name="add_food">Agregar alimento</string>
+    <string name="foods">Alimentos</string>
+    <string name="alimento_url" translatable="false">http://alexis-suarez.com/api/alimento</string>
+    <string name="emptyFoodListError">La lista de alimentos no puede estar vacía.\nAgrega al menos un alimento</string>
+    <string name="idea_url" translatable="false">http://alexis-suarez.com/api/idea</string>
+    <string name="ideas_url" translatable="false">http://alexis-suarez.com/api/ideas</string>
+</resources>
